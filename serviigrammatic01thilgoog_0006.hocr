@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./serviigrammatic01thilgoog_0006.png"; bbox 0 0 3354 5430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 741 1375 968">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 741 1375 968">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 741 1375 968; baseline 0 -92"><span class='ocrx_word' id='word_1_1' title='bbox 357 742 689 968; x_wconf 58' lang='grc' dir='ltr'>ἓΕΒἯΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 748 741 1375 878; x_wconf 78' lang='lat' dir='ltr'><strong>GRAMMATICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 600 1240 1140 1355">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 600 1240 1140 1355">
+     <span class='ocr_line' id='line_1_2' title="bbox 600 1240 1140 1355; baseline 0.004 -20"><span class='ocrx_word' id='word_1_3' title='bbox 600 1240 716 1355; x_wconf 78' lang='lat' dir='ltr'><strong>QVI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 761 1241 1140 1337; x_wconf 82' lang='lat' dir='ltr'><strong>FERVNTVR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 232 1697 1506 2115">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 232 1697 1506 2115">
+     <span class='ocr_line' id='line_1_3' title="bbox 232 1697 1506 1833; baseline 0.003 -26"><span class='ocrx_word' id='word_1_5' title='bbox 232 1697 304 1807; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 340 1697 645 1833; x_wconf 79' lang='lat' dir='ltr'>VERGILH</span> <span class='ocrx_word' id='word_1_7' title='bbox 688 1697 1007 1811; x_wconf 79' lang='lat' dir='ltr'><strong>BVOOLIOA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1051 1699 1134 1808; x_wconf 78' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1176 1699 1506 1812; x_wconf 78' lang='lat' dir='ltr'><strong>GEORGIOA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 642 2000 1100 2115; baseline 0.002 -3"><span class='ocrx_word' id='word_1_10' title='bbox 642 2000 1100 2115; x_wconf 75' lang='lat' dir='ltr'><strong>COMMENTARH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 608 2939 1141 3007">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 608 2939 1141 3007">
+     <span class='ocr_line' id='line_1_5' title="bbox 608 2939 1141 3007; baseline 0.006 -3"><span class='ocrx_word' id='word_1_11' title='bbox 608 2939 919 3006; x_wconf 81' lang='lat' dir='ltr'><strong>GEORGIVS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 956 2939 1141 3007; x_wconf 85' lang='lat' dir='ltr'>&#39;I&#39;HILO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1682 5430">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1682 5430">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1682 5430; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1682 5430; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
